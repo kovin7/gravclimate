@@ -1,5 +1,6 @@
 ---
 title: About
+hero_classes: parallax
 content:
     items:
         - '@self.children'
@@ -12,3 +13,7 @@ content:
 ---
 
 Hi
+
+This is the start of the blog.
+
+Testing 1 2 3
